@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Zannnah Marsh">
+    <meta name="generator" content="Hugo 0.98.0">
+    <title> Zannah Marsh </title>
+
+
+<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        height: 3rem;
+        background-color: rgba(250,250, 250, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+
+     img-logo {
+        padding: 5px;
+      }
+    </style>
+
+
+    <!-- Custom styles for this template -->
+    <link href="starter-template.css" rel="stylesheet">
+  </head>
+  <body>
+
+<div class="col-lg-8 mx-auto p-3 py-md-5">
+  <header class="d-flex align-items-center pb-3 mb-5 border-bottom">
+    <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+    <img style="padding:10px" src="../assets/brand/tinylogo.png" alt="lil icon" width="50" height="50">   <span class="fs-4"> Hey there, welcome!</span>
+    </a>
+  </header>
+
+  <main>
+    <div class="container">
+      <h1> 🎮 8-Bit Vibes: Making Tiny Games and Art with AI
+ </h1>
+      <!-- Stack the columns on mobile by making one full-width and the other half-width -->
+      <div class="row">
+        <div class="col-md-8"> <p class="fs-4"> Join us for a day of creative exploration where we’ll be vibe-coding original 8-bit style games using the PICO-8 fantasy console.
+Fantasy consoles are platforms for making, playing, and sharing tiny video games, with built-in tools for producing art, sound, and code. PICO-8 uses the aesthetics and constraints of classic 1980s video games, sparking creativity while keeping things simple. Its limitations are actually a launchpad, allowing creators to focus on expressive game mechanics and visual storytelling. 
+Vibe-coding is a playful, collaborative approach to programming that uses natural language prompts (everyday spoken language) and AI tools like ChatGPT to generate and refine working code.
+In this worksop, we’ll play retro games and explore what makes them fun. Then, you’ll take your own inspiration and ideas, improvise and build with AI, and create a game prototype that’s totally your own.
+No programming or computer science/AI experience necessary. As part of the workshop we’ll discuss ethical issues and positive uses of AI.
+Artists, musicians, hackers, gamers, scientists, filmmakers, storytellers, students, educators, curious beginners – all are welcome! 
+At the workshop, you’ll have the option to collaborate on a team (encouraged!) or work on your own.
+ </p>
+          <div class="mb-5">
+            <a href="mailto:hello@zannah.fyi" class="btn btn-primary btn-lg px-4"> REGISTER HERE! </a>
+          </div></div>
+        <div class="col-6 col-md-4"> <img style="padding:10px" src="../assets/brand/flr.JPG" alt="purple coneflower in bloom" width="325" height="244"></div>
+      </div>
+
+
+
+    <hr>
+
+
+
+    <div class="row g-5">
+      <div class="col-md-6">
+         <h2>Workshop Details</h2>
+
+         <ul class="icon-list ps-0">
+       
+           <li class="d-flex align-items-start mb-1"><a href="https://www.lab111.nl" rel="noopener" target="_blank">
+Location: Lab111, Arie Biemondstraat 111, 1054 NZ Amsterdam, Netherland</a></li>
+          <li class="d-flex align-items-start mb-1">Date   </li>
+           <li class="d-flex align-items-start mb-1">Time:   </li>
+            <li class="d-flex align-items-start mb-1"> Cost:   </li>
+        </ul>
+      </div>
+
+        <div class="col-md-6">
+
+          <h2>Your Instructors</h2>
+    <p>Learn with these artists, researchers, designers, and technologists </p>
+        <ul class="icon-list ps-0">
+          <li class="d-flex align-items-start mb-1">Don</li>
+          <li class="d-flex align-items-start mb-1">Derek/li>
+          <li class="d-flex align-items-start mb-1">Sander </li>
+          <li class="d-flex align-items-start mb-1">Mark</li>
+          <li class="d-flex align-items-start mb-1">Zannah</li>
+        </ul>
+      </div>
+
+    </div>
+
+  </main>
+  <footer class="pt-5 my-5 text-muted border-top">
+    Created by Zannah Marsh &middot; &copy; 2025
+    Contact me at hello (at) zannah (dot) fyi
+
+  </footer>
+</div>
+
+
+    <script src=".../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+
+  </body>
+</html>

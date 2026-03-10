@@ -1,1 +1,158 @@
 
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Zannnah Marsh">
+    <meta name="generator" content="Hugo 0.98.0">
+    <title> Zannah Marsh </title>
+
+
+<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+
+     img-logo {
+        padding: 5px;
+      }
+    </style>
+
+
+    <!-- Custom styles for this template -->
+    <link href="starter-template.css" rel="stylesheet">
+  </head>
+  <body>
+
+<div class="col-lg-8 mx-auto p-3 py-md-5">
+  <header class="d-flex align-items-center pb-3 mb-5 border-bottom">
+    <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+    <img style="padding:10px" src="../assets/brand/tinylogo.png" alt="lil icon" width="50" height="50">   <span class="fs-4">code & interaction design</span>
+    </a>
+  </header>
+
+  <main>
+    <div class="container">
+      <!-- Stack the columns on mobile by making one full-width and the other half-width -->
+      <div class="row">
+        <div class="col-md-4"  style="display: flex; flex-direction: column; 
+          justify-content: flex-end"> <p class="fs-2">Virtual Global Zine Fair</p> <p class="fs-5"> An online space for sharing community-made zines, in the virtual meeting platform Spatial Chat.  </p> <p class="fs-6"> I collaborated with fellow artists Kiwako Sakamoto and Don Miller to create this project. Our curated zine fair/exhibtion featured works from around the world, in a vaporwave-inspired setting, complete with a chill-out zone for socializing, a DJ set, and algorithmic ambient visuals. <a href="https://www.mozillafoundation.org/en/blog/mozfest-zine-fair-march-11-introducing-our-zine-makers/">Read more about it here.</a> This ephemeral work was part of MozFest 2022, a virtual tech festival, and the space sadly vanished at the end of the event.  </p>
+        </div>
+          <div class="col-md-8" style="display: flex; flex-direction: column; 
+          justify-content: flex-end">  <img style="padding:10px" class="img-fluid" src="../assets/interact/zineF1.png" alt="a colorful virtual space featuring palm trees and pyramids, and a zine gallery">
+      </div> 
+      </div>
+      <hr>
+       <!-- Next set of images -->
+  <div class="row">
+        <div class="col"> <img style="padding:10px" class="img-fluid" src="../assets/interact/zineF3s.png" alt="another zine fair image">
+        </div>
+      </div>
+  <hr>
+
+ <!-- NEW SECTION -->
+   <div class="row">
+        <div class="col-md-4"  style="display: flex; flex-direction: column; 
+          justify-content: flex-end"> <p class="fs-2">text_ocean</p> <p class="fs-5">An experiment in random access reading and text visualization, using Herman Melville's notoriously impenetrable whalefishery epic 'Moby Dick' as source material.</p><p class="fs-6"> Selections of the text are blown apart and become a dynamic sea of words, animated according to grammatical function. The user explores the text by diving into the depths or surfacing, using the up and down arrow keys. The user "reads" by clicking to hook an intriguing word as it drifts or darts past. When a word is hooked, the other words belonging to its line are also slowly pulled in, and assemble, if reluctantly, to be read. Pressing "return" will release the words into the sea, but each time a word is unhooked, its connection to its original line of text may be lost. A wild unhooked word may find another line to swim with; the text is slowly, randomly rewritten by the user, word by word, as it is read. This work was made in Processing, and is optimized for Google Chrome. Commissioned by Turbulence/New Radio. <a href="http://meiac.es/turbulence/turbulence/commissions/text_ocean/text_ocean.html">Experience text_ocean on the Turbulence Archive.</a> </p>
+        </div>
+          <div class="col-md-8" style="display: flex; flex-direction: column; 
+          justify-content: flex-end">  <img style="padding:10px" class="img-fluid" src="../assets/interact/t_o1.png" alt="screengrab of text ocean">
+      </div> 
+      </div>
+      
+       <!-- Next set of images -->
+  <div class="row">
+        <div class="col"> <img style="padding:10px" class="img-fluid" src="../assets/interact/t_o2.png" alt="another screengrab of text ocean">
+        </div>
+      </div>
+      <hr>
+
+ <!-- FOOTER STUFF --> 
+    <div class="row g-5">
+      <div class="col-md-6">
+         <h2>Find me online.</h2>
+           <p>Here's where you can connect with me: </p>
+         <ul class="icon-list ps-0">
+           <li class="d-flex align-items-start mb-1"><a href="https://www.linkedin.com/in/zannahmarsh/" rel="noopener" target="_blank">LinkedIn: work w/ tech, museums, teaching...</a></li>
+           <li class="d-flex align-items-start mb-1"><a href="https://www.etsy.com/shop/BottleCapCove" rel="noopener" target="_blank">Etsy: drawings, art prints, comics...</a></li>
+        </ul>
+      </div>
+
+        <div class="col-md-6">
+
+          <h2>Let's collaborate.</h2>
+    <p>Here are a few things we might do together: </p>
+        <ul class="icon-list ps-0">
+          <li class="d-flex align-items-start mb-1">Collaborative project management</li>
+          <li class="d-flex align-items-start mb-1">Network-based production</li>
+          <li class="d-flex align-items-start mb-1">Learning ecosystem design</li>
+          <li class="d-flex align-items-start mb-1">Narratives for multimedia</li>
+        </ul>
+      </div>
+
+    </div>
+  </main>
+  <footer class="pt-5 my-5 text-muted border-top">
+    Created by Zannah Marsh &middot; &copy; 2025
+    Contact me at hello (at) zannah (dot) fyi
+
+  </footer>
+</div>
+
+
+    <script src=".../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+
+  </body>
+</html>
